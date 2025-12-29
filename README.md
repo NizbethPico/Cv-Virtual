@@ -4,7 +4,7 @@ Plantilla de **CV/Portafolio** en una sola página, con **menú vertical anclado
 
 > Proyecto ideal para aprender maquetación web y publicar tu CV online de forma profesional.
 
-![Preview - Portafolio de Nizbeth](assets/img/photos/image-copy.png)
+![Preview - Portafolio de Nizbeth](assets/img/photos/image.png)
 
 ---
 
@@ -502,8 +502,7 @@ link.href = 'assets/CV_NIZBETH.pdf';
 ## Contacto y Soporte
 
 - 📧 **Email:** nizbethdelgado@gmail.com
-- 🔗 **Portfolio:** https://TU_SITIO.com (cuando esté publicado)
-- 💼 **LinkedIn:** [Tu perfil LinkedIn]
+- 💼 **LinkedIn:**  https://www.linkedin.com/in/nizbethpico/
 
 ---
 
