@@ -1,0 +1,10 @@
+{
+  "buildCommand": "mkdir -p public && cp -r assets *.html public/",
+  "outputDirectory": "public",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
