@@ -1,6 +1,8 @@
 {
   "buildCommand": "mkdir -p public && cp -r assets *.html public/",
   "outputDirectory": "public",
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     {
       "source": "/(.*)",
