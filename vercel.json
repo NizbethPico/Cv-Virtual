@@ -1,6 +1,0 @@
-{
-  "buildCommand": "mkdir -p public && cp -r assets index.html Curriculum-Personal.html public/",
-  "outputDirectory": "public",
-  "cleanUrls": true,
-  "trailingSlash": false
-}
